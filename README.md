@@ -9,4 +9,4 @@ This api provides a simple url shortener.
 2. Posting an invalid URL that does not follow the http(s)://www.example.com(/more/routes) format, will return a JSON response like `{"error":"invalid URL"}`
 3. Visiting the shortened URL, will redirect to the original link.
 
-[Demo](https://oy7br.sse.codesandbox.io/)
+[Demo](https://pf03k.sse.codesandbox.io/)
