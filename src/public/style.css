@@ -1,0 +1,46 @@
+body {
+	background: #83d373;
+	text-align: center;
+	font-family: cursive;
+}
+
+.container {
+	width: 550px;
+	margin: 100px auto;
+	padding: 20px 55px;
+	background: #35804e;
+	border: 3px solid #9c6262;
+	border-radius: 10px;
+	box-shadow: 5px 10px 15px #333;
+}
+
+.description {
+	text-align: left;
+}
+
+code {
+	background: #687448;
+	padding: 2px;
+}
+
+form {
+	margin: 15px auto;
+	padding: 20px;
+	border: 1px solid #003;
+	border-radius: 5px;
+	text-align: center;
+}
+
+input {
+	padding: 7px;
+	border-radius: 5px;
+}
+
+.input {
+	width: 250px;
+}
+
+#author {
+	color: #33311a;
+	font-size: 12px;
+}
